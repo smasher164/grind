@@ -14,7 +14,7 @@ import (
 	"regexp"
 	"testing"
 
-	"rsc.io/grind/grinder"
+	"github.com/jackspirou/grind/grinder"
 )
 
 var run = flag.String("grindrun", "", "only run golden tests for files with names matching this regexp")

@@ -1,3 +1,8 @@
-go get [-u] rsc.io/grind
+grind
+=====
 
-http://godoc.org/rsc.io/grind
+## Install
+
+`go get github.com/jackspirou/grind`
+
+http://godoc.org/github.com/jackspirou/grind

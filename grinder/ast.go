@@ -10,7 +10,7 @@ import (
 
 	"golang.org/x/tools/go/types"
 
-	"rsc.io/grind/block"
+	"github.com/jackspirou/grind/block"
 )
 
 func Unlabel(x ast.Stmt) ast.Stmt {

@@ -12,8 +12,8 @@ import (
 
 	"golang.org/x/tools/go/types"
 
-	"rsc.io/grind/block"
-	"rsc.io/grind/grinder"
+	"github.com/jackspirou/grind/block"
+	"github.com/jackspirou/grind/grinder"
 )
 
 var debug = false
