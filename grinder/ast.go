@@ -7,8 +7,7 @@ package grinder
 import (
 	"go/ast"
 	"go/token"
-
-	"golang.org/x/tools/go/types"
+	"go/types"
 
 	"github.com/jackspirou/grind/block"
 )
