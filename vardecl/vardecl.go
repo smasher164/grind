@@ -9,9 +9,8 @@ import (
 	"fmt"
 	"go/ast"
 	"go/token"
+	"go/types"
 	"strings"
-
-	"golang.org/x/tools/go/types"
 
 	"github.com/jackspirou/grind/block"
 	"github.com/jackspirou/grind/flow"
