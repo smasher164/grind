@@ -18,7 +18,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	_ "golang.org/x/tools/go/gcimporter15"
+	_ "golang.org/x/tools/go/internal/gcimporter"
 )
 
 type Package struct {
